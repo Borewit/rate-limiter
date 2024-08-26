@@ -14,6 +14,6 @@ updates:
     groups:
       types:
         applies-to: version-updates
-        dependency-type: "production"
+        dependency-type: "development"
         patterns:
           - "@types/*"
