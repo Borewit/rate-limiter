@@ -49,7 +49,7 @@ Example
 import { RateLimitThreshold } from 'rate-limit-threshold';
 
 (async () => {
-    const rateLimitThreshold = new RateLimitThreshold(3, 1000); // Allow a maximum of 3 requests per second
+    const rateLimitThreshold = new RateLimitThreshold(3, 1); // Allow a maximum of 3 requests per second
 
     for (let n = 0; n < 7; ++n) {
         const delayInMs = await rateLimitThreshold.limit(); // Apply delay to comply with the rate limit
@@ -74,7 +74,7 @@ new RateLimitThreshold(requests, period);
 
 ##### Parameters:
 -  `requests` (number): The maximum number of requests allowed within the specified period.
--  `period` (number): The time period (in milliseconds) within which the specified number of requests are allowed.
+-  `period` (number): The time period (in seconds) within which the specified number of requests are allowed.
 
 #### `limit`
 
