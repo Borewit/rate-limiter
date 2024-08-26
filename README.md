@@ -43,6 +43,10 @@ Some of my other projects you may want to support include:
 
 [Become a sponsor to Borewit](https://github.com/sponsors/Borewit)
 
+or
+
+<a href="https://www.buymeacoffee.com/borewit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy me A coffee" height="41" width="174"></a>
+
 ## Usage
 
 A `rate-limit-threshold` helps enforce rate limits by restricting the maximum number of calls allowed within a specified time frame.
