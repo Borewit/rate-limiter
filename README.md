@@ -10,6 +10,10 @@
 
 # rate-limit-threshold
 
+Module designed to handle rate-limiting by allowing developers to set thresholds for the maximum number of requests that can be made within a specified time period.
+This helps to prevent exceeding the rate limits imposed by APIs or services.
+The module provides configurable options and is useful for managing API consumption in a controlled manner.
+
 ## Installation
 
 ```shell

@@ -51,11 +51,14 @@
   },
   "keywords": [
     "ratelimiter",
+    "rate-limiting",
     "rate",
     "limit",
     "rolling",
     "limitting",
-    "request"
+    "request",
+    "restrict",
+    "API"
   ],
   "dependencies": {
     "@biomejs/biome": "^1.8.3"
