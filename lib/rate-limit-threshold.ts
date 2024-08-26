@@ -9,7 +9,7 @@ export class RateLimitThreshold {
 
   /**
    * @param requests Number of allowed requests with period
-   * @param period Period in milliseconds
+   * @param period Period in seconds
    */
   public constructor(private requests: number, period: number) {
     this.period = 1000 * period;
