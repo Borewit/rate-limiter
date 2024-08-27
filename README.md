@@ -28,24 +28,14 @@ This package is compatible with:
 1. [Pure ESM environments](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c)
 1. [ECMAScript 2020 (11th Edition)](https://en.wikipedia.org/wiki/ECMAScript_version_history#11th_Edition_%E2%80%93_ECMAScript_2020) standard.
 
-## Sponsor
+## Support the Project
+If you find this project useful and would like to support its development, consider sponsoring or contributing:
 
-If you find this package useful and would like to support the development of open-source projects, 
-please consider sponsoring or making a contribution. 
-Your support helps sustain ongoing development and improvements.
+- [Become a sponsor to Borewit](https://github.com/sponsors/Borewit)
 
-Some of my other projects you may want to support include:
-- [musicbrainz-api](https://github.com/Borewit/musicbrainz-api), 
-- [music-metadata](https://github.com/Borewit/music-metadata), 
-- [file-type](https://github.com/sindresorhus/file-type), [listFix()](https://github.com/Borewit/listFix), 
-- [lizzy](https://github.com/Borewit/lizzy)
-- [strtok3](https://github.com/Borewit/strtok3) or [tokenizer-s3](https://github.com/Borewit/tokenizer-s3)
+- Buy me a coffee:
 
-[Become a sponsor to Borewit](https://github.com/sponsors/Borewit)
-
-or
-
-<a href="https://www.buymeacoffee.com/borewit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy me A coffee" height="41" width="174"></a>
+  <a href="https://www.buymeacoffee.com/borewit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy me A coffee" height="41" width="174"></a>
 
 ## Usage
 
