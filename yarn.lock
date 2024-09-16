@@ -315,9 +315,9 @@ __metadata:
   linkType: hard
 
 "@types/chai@npm:^4.3.10":
-  version: 4.3.18
-  resolution: "@types/chai@npm:4.3.18"
-  checksum: 10c0/e6b86d8c32b1d2bce1e62b8c22a29182c4e5866ede4a93cc862386d881e11bfd2ef20b12fc4ef5fa1202fe21f15a11b43738e14691779c3dcb493bd40494b232
+  version: 4.3.19
+  resolution: "@types/chai@npm:4.3.19"
+  checksum: 10c0/8fd573192e486803c4d04185f2b0fab554660d9a1300dbed5bde9747ab8bef15f462a226f560ed5ca48827eecaf8d71eed64aa653ff9aec72fb2eae272e43a84
   languageName: node
   linkType: hard
 
@@ -395,9 +395,9 @@ __metadata:
   linkType: hard
 
 "@types/mocha@npm:^10.0.4":
-  version: 10.0.7
-  resolution: "@types/mocha@npm:10.0.7"
-  checksum: 10c0/48a2df4dd02b6e66a11129dca6a23cf0cc3995faf8525286eb851043685bd8b7444780f4bb29a1c42df7559ed63294e5308bfce3a6b862ad2e0359cb21c21329
+  version: 10.0.8
+  resolution: "@types/mocha@npm:10.0.8"
+  checksum: 10c0/af01f70cf2888762e79e91219dcc28b5d82c85d9a1c8ba4606d3ae30748be7e2cb9f06d680ad36112c78f5e568d0423a65ba8b7c53d02d37b193787bbc03d088
   languageName: node
   linkType: hard
 
